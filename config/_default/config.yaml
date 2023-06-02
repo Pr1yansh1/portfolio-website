@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Hugo Portfolio Theme # Website name
-baseURL: 'https://example.com/' # Website URL
+title: priyanshi-garg # Website name
+baseURL: 'https://www.andrew.cmu.edu/user/pgarg2/' # Website URL
 
 ############################
 ## PAGE OPTIONS
